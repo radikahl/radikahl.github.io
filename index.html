@@ -8,8 +8,9 @@ subtitle: This is where I will tell my friends a bit about me
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
+    {% if post.hide-title == false %}
 	  <h2 class="post-title">{{ post.title }}</h2>
-
+    {% endif %}
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
