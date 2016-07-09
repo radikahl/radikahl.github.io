@@ -22,8 +22,16 @@ subtitle: This is where I will tell my friends a bit about me
     </p>
 
     <div class="post-entry">
-      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+      {{ post.excerpt }}
+      {% capture content_words %}
+        {{ post.content | number_of_words }}
+      {% endcapture %}
+      {% capture excerpt_words %}
+        {{ post.excerpt | number_of_words }}
+      {% endcapture %}
+      {% if excerpt_words != content_words %}
+        <p><a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a></p>
+      {% endif %}
     </div>
 
    </article>
