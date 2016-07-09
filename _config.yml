@@ -17,7 +17,7 @@ baseurl: ""
 title: vklog
 
 # Short description of your site
-# description: A virtual proof that name is awesome!
+description: A place where I tell a bit
 
 # --- Navigation bar options --- #
 
@@ -39,14 +39,14 @@ author:
   facebook: vfskahl
   github: radikahl
   twitter: radikahl
-  #linkedin: 
+  #linkedin:
   #stackoverflow: yourlink
- 
+
 # Select which links to show in the footer
 footer-links-active:
   rss: true
   facebook: true
-  email: true
+  email: false
   twitter: true
   github: true
   linkedin: false
@@ -54,7 +54,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kahl.in" 
+url-pretty: "kahl.in"
 
 # --- Misc --- #
 
