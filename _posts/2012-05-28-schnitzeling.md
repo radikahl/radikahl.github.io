@@ -2,6 +2,7 @@
 layout: post
 title: schnitzeling
 excerpt_separator: “”
+permalink: 2012/05/28/schnitzeling.html
 ---
 ![Schnitzel](https://dl.dropbox.com/u/4255155/blog/schnitzeling.jpg "It made me stronger.")
 

@@ -2,8 +2,9 @@
 layout: post
 title: Step-by-Step from Gmail to Google Apps mail with IMAPSync
 excerpt_separator: <!--more-->
+permalink: 2011/09/09/step-by-step-from-gmail-to-google-apps-mail-with-imapsync.html
 ---
-As mentioned in [my last post](http://vincent-kahl.net/2011/08/07/tools-roundup-for-migrating-to-google-apps-mail/ "Tools Roundup for Migrating To Google Apps Mail"), it is not too easy to migrate from a normal Gmail account to a Google Apps account. Lots of tools do not bring satisfying results. The only tool that brought the best results was imapsync. Being a command-line tool, it is not easy to use for most. Hence, I want to ease the usage by providing this step by step tutorial. It is tailored for Mac OS X users. However, there is a [very straightforward guide for Windows](http://nimal.info/blog/2011/migrating-from-google-apps-mail-back-to-gmail/ "Back to Gmail: Migrating emails from Google Apps mail to Gmail") as well. In fact, my short tutorial is based on that one :)
+As mentioned in [my last post](http://kahl.in/2011/08/07/tools-roundup-for-migrating-google-apps-mail.html "Tools Roundup for Migrating To Google Apps Mail"), it is not too easy to migrate from a normal Gmail account to a Google Apps account. Lots of tools do not bring satisfying results. The only tool that brought the best results was imapsync. Being a command-line tool, it is not easy to use for most. Hence, I want to ease the usage by providing this step by step tutorial. It is tailored for Mac OS X users. However, there is a [very straightforward guide for Windows](http://nimal.info/blog/2011/migrating-from-google-apps-mail-back-to-gmail/ "Back to Gmail: Migrating emails from Google Apps mail to Gmail") as well. In fact, my short tutorial is based on that one :)
 <!--more-->
 
 ## Step 1: Download & Installation

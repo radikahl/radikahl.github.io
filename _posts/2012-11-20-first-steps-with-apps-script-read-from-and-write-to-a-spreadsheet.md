@@ -2,6 +2,7 @@
 layout: post
 title: First Steps with Apps Script&#58; Read from and Write to a Spreadsheet
 excerpt_separator: <!--more-->
+permalink: 2012/11/30/first-steps-apps-script-read-from-and-write-to-spreadheat.html
 ---
 With [Apps Script](https://script.google.com/) the Google Apps get a lot more powerful. Unfortunately, the first steps are not too easy. I found it fairly hard to grasp the mental model of how the scripts interact with the Apps. With a [little script](https://drive.google.com/previewtemplate?id=0AmvOCZ6UGJOsdEJjaFZHb3luSVBHUzBib0VwSzhGZWc&mode=public) and some accompanying description I hope to provide the right hints for everyone to successfully read data from a spreadsheet, do something with it and write the results back to the sheet.
 <!--more-->

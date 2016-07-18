@@ -2,6 +2,7 @@
 layout: post
 title: Tools Roundup for Migrating to Google Apps mail
 excerpt_separator: <!--more-->
+permalink: 2011/08/07/tools-roundup-for-migrating-google-apps-mail.html
 ---
 After being unhappy with Gmail’s handling of my custom email address (email@mydomain.tld) for quite some time, I came across my colleague’s newly written blog article about [transitioning from a normal Google account (@gmail.com) to a Google Apps account (@mydomain.tld)](http://www.filiwiese.com/transitioning-to-a-google-apps-account/ "Transitioning to a Google Apps account"). A few conversations later I was confident and excited enough to migrate my mails from Gmail to Google Apps. However, it was unfortunately much more cumbersome than I expected. But I succeeded at the end.
 <!--more-->

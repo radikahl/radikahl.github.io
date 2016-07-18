@@ -2,6 +2,7 @@
 layout: post
 title: VGA cable matter
 excerpt_separator: “”
+permalink: 2012/01/04/vga-cable-matter.html
 ---
 I wouldn't have thought, but the VGA cable might be the cause why your computer doesn't correctly recognized your monitor.
 

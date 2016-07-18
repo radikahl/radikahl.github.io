@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Screenshots in OS X
+permalink: 2009/06/19/screenshots-in-osx.html
 ---
 * Entire screen: ⌘+⇧+3
 * Select area with mouse: ⌘+⇧+4

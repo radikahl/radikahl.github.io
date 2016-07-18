@@ -1,7 +1,8 @@
 ---
 layout: post
-title: New Infra for the Blog
+title: New Software for the Blog
 excerpt_separator: “”
+permalink: /2016/07/12/new-software-for-the-blog.html
 ---
 After using [Schnitzelpress](https://github.com/hmans/schnitzelpress) and a self-build hack for a long time I switched platforms again: [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) hosted on Github.
 

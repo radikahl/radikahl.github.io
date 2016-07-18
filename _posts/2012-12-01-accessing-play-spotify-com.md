@@ -2,6 +2,7 @@
 layout: post
 title: Spotify in the Browser
 excerpt_separator: “”
+permalink: 2012/12/01/spotify-in-browser.html
 ---
 I love Spotify's new [web player](http://apps.facebook.com/get-spotify/?fb_source=notification&fb_ref=cazzette_us&ref=notif&notif_t=app_notification). No Ads and no weekly limit for no cash. I guess, that's due to its Beta status. Anyway, it's great because it works on Linux :)
 

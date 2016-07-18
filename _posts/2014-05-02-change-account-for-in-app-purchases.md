@@ -2,6 +2,7 @@
 layout: post
 title: Change Account for In-App Purchases
 excerpt_separator: “”
+permalink: 2014/05/02/change-account-for-in-app-purchases.html
 ---
 TL;DR Uninstall app. Go to Play website. Login your preferred account. Request remote install of the app. In-app purchases can now be paid with your preferred account.
 
