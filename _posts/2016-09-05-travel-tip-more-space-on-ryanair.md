@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Travel Tip #1: More Space on Ryanair
+title: Travel Tip &#35;1: More Space on Ryanair
 excerpt_separator: <!--more-->
 permalink: /2016/09/05/travel-tip-more-space-on-ryanair.html
 ---
